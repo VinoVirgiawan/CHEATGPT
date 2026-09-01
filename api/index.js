@@ -1,5 +1,5 @@
 const KEYS = {
-  "PINOK-CHEATGPT": {
+  "Credits:@kepental": {
     expiry: "2099-12-31 08:33:41",
     package: "com.dts.freefiremax"
   }
