@@ -1,6 +1,6 @@
 const KEYS = {
   "PINOK-CHEATGPT": {
-    expiry: "2099-12-31 23:59:59",
+    expiry: "2099-12-31 08:33:41",
     package: "com.dts.freefiremax"
   }
 };
