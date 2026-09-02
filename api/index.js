@@ -6,6 +6,10 @@ const KEYS = {
   "getzy": {
     expiry: "2099-12-31 08:33:41",
     package: "com.dts.freefiremax"
+  },
+  "Credits:@kepental": {
+    expiry: "2099-12-31 08:33:41",
+    package: "com.dts.freefiremax"
   }
 };
 
